@@ -20,6 +20,10 @@ body{
     border-radius: 1vw;
     overflow: hidden;
 }
+#link{
+    bottom: 0;
+    right: 0;
+}
 .parts{
     width: calc(100%/3);
     height: 100%;
